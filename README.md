@@ -2,10 +2,10 @@
 
 <div align='center'>
   <h4>Coding Skills:</h4>
-  <code><img height="24" src="/images/html5.svg"></code>
-  <code><img height="24" src="/images/css3.svg"></code>
-  <code><img height="24" src="/images/javascript.svg"></code>
-  <code><img height="24" src="/images/python.svg"></code>
+  <code><img height="28" src="/images/html5.svg"></code>
+  <code><img height="28" src="/images/css3.svg"></code>
+  <code><img height="28" src="/images/javascript.svg"></code>
+  <code><img height="28" src="/images/python.svg"></code>
 </div>
 
 ##
