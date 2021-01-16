@@ -1,4 +1,7 @@
-### Hi there b
+##
+
+<p width="250px"> Hi there! Stay a while and listen friend.
+</p>
 
 <div align='center'>
   <h4>Coding Skills:</h4>
