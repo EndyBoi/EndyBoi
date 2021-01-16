@@ -1,7 +1,10 @@
 ##
 
-<p width="250px"> Hi there! Stay a while and listen friend.
-</p>
+<div align='center'>
+  <p width="250px"> 
+    Hi there! Stay a while and listen friend.
+  </p>
+</div>
 
 <div align='center'>
   <h4>Coding Skills:</h4>
