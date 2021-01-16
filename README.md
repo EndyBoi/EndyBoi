@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi there b
 
-## 
+<div align='center'>
+  <h4>Coding Skills:</h4>
+  <code><img height="24" src="/images/html5.svg"></code>
+  <code><img height="24" src="/images/css3.svg"></code>
+  <code><img height="24" src="/images/javascript.svg"></code>
+  <code><img height="24" src="/images/python.svg"></code>
+</div>
+
+##
+
 <div align='center'>
   <a href="https://github.com/endyboi" target="_blank">
     <img alt="Git Hub View Counter" src="https://komarev.com/ghpvc/?username=endyboi&style=flat-square&color=blueviolet" />
