@@ -16,7 +16,7 @@
     <img alt="Git Hub Language Counter" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endyboi&langs_count=8&layout=compact&theme=dracula&hide=c,c%2B%2B,jupyter%20notebook,mathematica" />
   </a>
 </div>
-##
+
 <!--
 **EndyBoi/EndyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
