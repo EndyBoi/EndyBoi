@@ -8,10 +8,10 @@
 
 <div align='center'>
   <h4>Coding Skills:</h4>
-  <code><img height="28" src="/images/html5.svg"></code>
-  <code><img height="28" src="/images/css3.svg"></code>
-  <code><img height="28" src="/images/javascript.svg"></code>
-  <code><img height="28" src="/images/python.svg"></code>
+  <code><img alt="HTML 5" width="42" height="42" src="/images/html5.svg"></code>
+  <code><img alt="CSS 3" width="42" height="42" src="/images/css3.svg"></code>
+  <code><img alt="Javascript" width="42" height="42" src="/images/javascript.svg"></code>
+  <code><img alt="Python" width="42" height="42" src="/images/python.svg"></code>
 </div>
 
 ##
