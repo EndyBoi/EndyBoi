@@ -2,16 +2,19 @@
 
 <div align='center'>
   <p width="250px"> 
-    Hi there! Stay a while and listen friend.
+    <h3>Hi there! Stay a while and listen friend.</h3>
+    I am currently enrolled in Ironhacks WebDev bootcamp, I am currently in the process of leanring more Javascript, soon Node.js, React, and MongoDB. However, I am mostly interested in the application of these skills in junction with NEAT, Tensor Flow, and Brain.JS for machine learning and AI applications. 
   </p>
-</div>
+</div> 
+
+##
 
 <div align='center'>
-  <h4>Coding Skills:</h4>
-  <code><img height="28" src="/images/html5.svg"></code>
-  <code><img height="28" src="/images/css3.svg"></code>
-  <code><img height="28" src="/images/javascript.svg"></code>
-  <code><img height="28" src="/images/python.svg"></code>
+  <h3>Coding Skills:</h3>
+  <code><img alt="HTML 5" width="32" height="32" src="/images/html5.svg"></code>
+  <code><img alt="CSS 3" width="32" height="32" src="/images/css3.svg"></code>
+  <code><img alt="Javascript" width="32" height="32" src="/images/javascript.svg"></code>
+  <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
 </div>
 
 ##
