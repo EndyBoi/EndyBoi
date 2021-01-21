@@ -14,6 +14,7 @@
   <code><img alt="HTML 5" width="32" height="32" src="/images/html5.svg"></code>
   <code><img alt="CSS 3" width="32" height="32" src="/images/css3.svg"></code>
   <code><img alt="Javascript" width="32" height="32" src="/images/javascript.svg"></code>
+  <code><img alt="Bootstrap" width="32" height="32" src="/images/bootstrap.svg"></code>
   <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
 </div>
 
