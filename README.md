@@ -3,7 +3,7 @@
 <div align='center'>
   <p width="250px"> 
     <h3>Hi there! Stay a while and listen friend.</h3>
-    I am currently enrolled in Ironhacks WebDev bootcamp, I am currently in the process of leanring more Javascript, soon Node.js, React, and MongoDB. However, I am mostly interested in the application of these skills in junction with NEAT, Tensor Flow, and Brain.JS for machine learning and AI applications. 
+    I am currently enrolled in Ironhacks WebDev bootcamp, I am currently in the process of leanring more Javascript, Node.js, React, and MongoDB. I am also in the process of gaining a greater understanding of machine learning, currently with Brain.js to compliment my growing understanding of Javascript. 
   </p>
 </div> 
 
@@ -15,7 +15,7 @@
   <code><img alt="CSS 3" width="32" height="32" src="/images/css3.svg"></code>
   <code><img alt="Javascript" width="32" height="32" src="/images/javascript.svg"></code>
 <!--   <code><img alt="Node.JS" width="32" height="32" src="/images/nodejs.svg"></code> -->
-<!--   <code><img alt="Brain.JS" width="32" height="32" src="/images/brainjs.svg"></code> -->
+  <code><img alt="Brain.JS" width="32" height="32" src="/images/brainjs.svg"></code>
 <!--   <code><img alt="Tensor Flow" width="32" height="32" src="/images/tensorflow.svg"></code> -->
 <!--   <code><img alt="Tailwind CSS" width="32" height="32" src="/images/tailwindcss.svg"></code> -->
 <!--   <code><img alt="Bootstrap" width="32" height="32" src="/images/bootstrap.svg"></code> -->
@@ -24,6 +24,14 @@
 <!--   <code><img alt="Typescript" width="32" height="32" src="/images/typescript.svg"></code> -->
 <!--   <code><img alt="Mongo DB" width="32" height="32" src="/images/mongo.svg"></code> -->
   <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
+</div>
+
+## 
+
+<div align='center'>
+  <h3>Interesting articles:</h3>
+  <a href="https://pabloinsente.github.io/intro-linear-algebra">Introduction to Linear Algebra for Applied Machine Learning with Python</a>
+  <a href"https://geekrodion.medium.com/linear-algebra-with-javascript-46c289178c0">Linear Algebra with JavaScript</a>
 </div>
 
 ##
