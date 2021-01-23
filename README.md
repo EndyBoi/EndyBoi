@@ -30,8 +30,13 @@
 
 <div align='center'>
   <h3>Interesting articles:</h3>
-  <a href="https://pabloinsente.github.io/intro-linear-algebra">Introduction to Linear Algebra for Applied Machine Learning with Python</a>
-  <a href"https://geekrodion.medium.com/linear-algebra-with-javascript-46c289178c0">Linear Algebra with JavaScript</a>
+  <a href="https://pabloinsente.github.io/intro-linear-algebra">
+    Introduction to Linear Algebra for Applied Machine Learning with Python
+  </a>
+  <br>
+  <a href="https://geekrodion.medium.com/linear-algebra-with-javascript-46c289178c0">
+    Linear Algebra with JavaScript
+  </a>
 </div>
 
 ##
