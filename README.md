@@ -3,7 +3,7 @@
 <div align='center'>
   <p width="250px"> 
     <h3>Hi there! Stay a while and listen friend.</h3>
-    I am currently enrolled in Ironhacks WebDev bootcamp, I am currently in the process of leanring more Javascript, Node.js, React, and MongoDB. I am also in the process of gaining a greater understanding of machine learning, currently with Brain.js to compliment my growing understanding of Javascript. 
+    I am currently enrolled in Ironhacks WebDev bootcamp and through them I am in the process of leanring more Javascript, Node.js, React, and MongoDB. However, I also find myself passionate about Machine Learning/AI in daily applications as a powerful tool for automation. 
   </p>
 </div> 
 
@@ -50,10 +50,10 @@
   </a>
   <br>
   <a href="https://github.com/endyboi">
-    <img alt="Git Hub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=endyboi&count_private=true&show_icons=true&theme=dracula" />
+    <img alt="Git Hub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=endyboi&show_icons=true&theme=synthwave" />
   </a>
   <a href="https://github.com/endyboi">
-    <img alt="Git Hub Language Counter" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endyboi&langs_count=8&layout=compact&theme=dracula&hide=c,c%2B%2B,jupyter%20notebook,mathematica" />
+    <img alt="Git Hub Language Counter" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endyboi&langs_count=8&layout=compact&theme=synthwave" />
   </a>
 </div>
 
