@@ -14,7 +14,7 @@
   <code><img alt="HTML 5" width="32" height="32" src="/images/html5.svg"></code>
   <code><img alt="CSS 3" width="32" height="32" src="/images/css3.svg"></code>
   <code><img alt="Javascript" width="32" height="32" src="/images/javascript.svg"></code>
-  <code><img alt="Node.JS" width="32" height="32" src="/images/nodejs.svg"></code>
+<!--   <code><img alt="Node.JS" width="32" height="32" src="/images/nodejs.svg"></code> -->
     <code><img alt="React" width="32" height="32" src="/images/react.svg"></code>
   <code><img alt="Brain.JS" width="32" height="32" src="/images/brainjs.svg"></code>
 <!--   <code><img alt="Tensor Flow" width="32" height="32" src="/images/tensorflow.svg"></code> -->
