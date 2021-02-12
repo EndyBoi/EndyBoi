@@ -5,7 +5,7 @@
     <h3>Hi there! Stay a while and listen friend.</h3>
     I am currently enrolled in Ironhacks WebDev bootcamp and through them I am in the process of leanring more Javascript, Node.js, React, and MongoDB. However, I also find myself passionate about Machine Learning/AI in daily applications as a powerful tool for automation. 
   </p>
-</div> 
+</div>
 
 ##
 
@@ -15,7 +15,8 @@
   <code><img alt="CSS 3" width="32" height="32" src="/images/css3.svg"></code>
   <code><img alt="Javascript" width="32" height="32" src="/images/javascript.svg"></code>
 <!--   <code><img alt="Node.JS" width="32" height="32" src="/images/nodejs.svg"></code> -->
-    <code><img alt="React" width="32" height="32" src="/images/react.svg"></code>
+  <code><img alt="React" width="32" height="32" src="/images/react.svg"></code>
+  <code><img alt="SASS" width="32" height="32" src="/images/sass.svg"></code>
   <code><img alt="Brain.JS" width="32" height="32" src="/images/brainjs.svg"></code>
 <!--   <code><img alt="Tensor Flow" width="32" height="32" src="/images/tensorflow.svg"></code> -->
 <!--   <code><img alt="Tailwind CSS" width="32" height="32" src="/images/tailwindcss.svg"></code> -->
@@ -26,7 +27,7 @@
   <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
 </div>
 
-## 
+##
 
 <div align='center'>
   <h3>Interesting articles:</h3>
@@ -53,8 +54,8 @@
     <img alt="Git Hub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=endyboi&show_icons=true&theme=synthwave" />
   </a>
   <a href="https://github.com/endyboi">
-    <img alt="Git Hub Language Counter" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endyboi&langs_count=8&layout=compact&theme=synthwave" />
-  </a>
+    <img alt="Git Hub Language Counter" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endyboi&layout=compact&theme=synthwave" />
+  </a>  
 </div>
 
 <!--
