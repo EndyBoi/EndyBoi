@@ -53,9 +53,9 @@
   <a href="https://github.com/endyboi">
     <img alt="Git Hub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=endyboi&show_icons=true&theme=synthwave" />
   </a>
-<!--   <a href="https://github.com/endyboi">
+  <a href="https://github.com/endyboi">
     <img alt="Git Hub Language Counter" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endyboi&layout=compact&theme=synthwave" />
-  </a>   -->
+  </a>  
 </div>
 
 <!--
