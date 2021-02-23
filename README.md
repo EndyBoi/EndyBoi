@@ -16,14 +16,14 @@
   <code><img alt="Javascript" width="32" height="32" src="/images/javascript.svg"></code>
 <!--   <code><img alt="Node.JS" width="32" height="32" src="/images/nodejs.svg"></code> -->
   <code><img alt="React" width="32" height="32" src="/images/react.svg"></code>
-  <code><img alt="SASS" width="32" height="32" src="/images/sass.svg"></code>
-  <code><img alt="Brain.JS" width="32" height="32" src="/images/brainjs.svg"></code>
-<!--   <code><img alt="Tensor Flow" width="32" height="32" src="/images/tensorflow.svg"></code> -->
+  <code><img alt="Sass" width="32" height="32" src="/images/sass.svg"></code>
+  <!-- <code><img alt="Brain.JS" width="32" height="32" src="/images/brainjs.svg"></code> -->
+  <code><img alt="TensorFlow.js" width="32" height="32" src="/images/tensorflow.svg"></code>
 <!--   <code><img alt="Tailwind CSS" width="32" height="32" src="/images/tailwindcss.svg"></code> -->
 <!--   <code><img alt="Bootstrap" width="32" height="32" src="/images/bootstrap.svg"></code> -->
 <!--   <code><img alt="Angular" width="32" height="32" src="/images/angular.svg"></code> -->
 <!--   <code><img alt="Typescript" width="32" height="32" src="/images/typescript.svg"></code> -->
-<!--   <code><img alt="Mongo DB" width="32" height="32" src="/images/mongo.svg"></code> -->
+  <code><img alt="Mongo DB" width="32" height="32" src="/images/mongo.svg"></code>
   <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
 </div>
 
