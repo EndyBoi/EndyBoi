@@ -1,9 +1,20 @@
 ##
 
 <div align='center'>
-  <p width="250px"> 
+  <p width='250px'> 
     <h3>Hi there! Stay a while and listen friend.</h3>
-    I am currently enrolled in Ironhacks WebDev bootcamp and through them I am in the process of leanring more Javascript, Node.js, React, and MongoDB. However, I also find myself passionate about Machine Learning/AI in daily applications as a powerful tool for automation. 
+    I am currently enrolled in Ironhacks WebDev bootcamp and through them I am in the process of leanring more Javascript, Node.js, React, Express, and MongoDB. However, I also find myself passionate about Machine Learning/AI in daily applications as a powerful tool for automation. I do find myself split between front-end and back-end coding, and looking to expand my knowledge base of different langauges. 
+  </p>
+</div>
+
+##
+
+<div align='center'>
+  <P width='250px'>
+    <h3>Some silly side projects:</h3>
+    <h4>These are little side projects I try to put out for fun and self-improvement that I am proud of.</h4>
+    <p><a href='http://longcat.co/'>LongCat.co</a> — This is just a website that has a simple style, and scrolls for as long as you do.</p>
+    <p><a href='https://endyboi.github.io/NEAT-Snake/'>Snake AI</a> — This is a simple proof of concept using snake with machine learning.</p>
   </p>
 </div>
 
