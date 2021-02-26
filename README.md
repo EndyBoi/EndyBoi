@@ -11,10 +11,11 @@
 
 <div align='center'>
   <P width='250px'>
-    <h3>Some silly side projects:</h3>
+    <h3>Some silly side projects:</h3>    
     <h4>These are little side projects I try to put out for fun and self-improvement that I am proud of.</h4>
-    <p><a href='http://longcat.co/'>LongCat.co</a> — This is just a website that has a simple style, and scrolls for as long as you do.</p>
     <p><a href='https://endyboi.github.io/NEAT-Snake/'>Snake AI</a> — This is a simple proof of concept using snake with machine learning.</p>
+    <p><a href='http://longcat.co/'>LongCat.co</a> — This is just a website that has a simple style, and scrolls for as long as you do.</p>
+    <p><a href='http://one-billion.co/'>One-Billion.co</a> — Literal representation of one a billion looks like one line at a time.</p>
   </p>
 </div>
 
