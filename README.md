@@ -3,7 +3,7 @@
 <div align='center'>
   <p width='250px'> 
     <h3>Hi there! Stay a while and listen friend.</h3>
-    I am currently enrolled in Ironhacks WebDev bootcamp and through them I am in the process of leanring more Javascript, Node.js, React, Express, and MongoDB. However, I also find myself passionate about Machine Learning/AI in daily applications as a powerful tool for automation. I do find myself split between front-end and back-end coding, and looking to expand my knowledge base of different langauges. 
+    I am a recent graduate Ironhacks WebDev bootcamp and through and have picked up Javascript, Node.js, React, Express, and MongoDB and various other skills. However, I also find myself passionate about Machine Learning/AI in daily applications as a powerful tool for automation. I do find myself split between front-end and back-end coding, and looking to expand my knowledge base of different langauges. 
   </p>
 </div>
 
