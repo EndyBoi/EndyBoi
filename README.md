@@ -20,7 +20,15 @@
 </div>
 
 ##
-
+<div align='center'>
+  <h3>Current Stack:</h3>
+  <code><img alt="Ruby" width="32" height="32" src="/images/ruby.svg"></code>
+  <code><img alt="Ruby/Rails" width="32" height="32" src="/images/rails.svg"></code>
+  <code><img alt="Typescript" width="32" height="32" src="/images/typescript.svg"></code>
+  <code><img alt="React" width="32" height="32" src="/images/react.svg"></code>
+  <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
+ </div>
+  
 <div align='center'>
   <h3>Coding Skills:</h3>
   <code><img alt="HTML 5" width="32" height="32" src="/images/html5.svg"></code>
