@@ -24,9 +24,7 @@
   <h3>Current Stack:</h3>
   <code><img alt="Ruby" width="32" height="32" src="/images/ruby.svg"></code>
   <code><img alt="Ruby/Rails" width="32" height="32" src="/images/rails.svg"></code>
-  <code><img alt="Typescript" width="32" height="32" src="/images/typescript.svg"></code>
-  <code><img alt="React" width="32" height="32" src="/images/react.svg"></code>
-  <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
+  <code><img alt="Tailwind CSS" width="32" height="32" src="/images/tailwindcss.svg"></code>
  </div>
   
 <div align='center'>
@@ -34,6 +32,7 @@
   <code><img alt="HTML 5" width="32" height="32" src="/images/html5.svg"></code>
   <code><img alt="CSS 3" width="32" height="32" src="/images/css3.svg"></code>
   <code><img alt="Javascript" width="32" height="32" src="/images/javascript.svg"></code>
+  <code><img alt="Typescript" width="32" height="32" src="/images/typescript.svg"></code>
 <!--   <code><img alt="Node.JS" width="32" height="32" src="/images/nodejs.svg"></code> -->
   <code><img alt="React" width="32" height="32" src="/images/react.svg"></code>
   <code><img alt="Sass" width="32" height="32" src="/images/sass.svg"></code>
@@ -42,7 +41,6 @@
   <code><img alt="Tailwind CSS" width="32" height="32" src="/images/tailwindcss.svg"></code>
   <code><img alt="Bootstrap" width="32" height="32" src="/images/bootstrap.svg"></code>
 <!--   <code><img alt="Angular" width="32" height="32" src="/images/angular.svg"></code> -->
-  <code><img alt="Typescript" width="32" height="32" src="/images/typescript.svg"></code>
   <code><img alt="Mongo DB" width="32" height="32" src="/images/mongo.svg"></code>
   <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
   <code><img alt="Ruby" width="32" height="32" src="/images/ruby.svg"></code>
