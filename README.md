@@ -3,7 +3,7 @@
 <div align='center'>
   <p width='250px'> 
     <h3>Hi there! Stay a while and listen friend.</h3>
-    I am a recent graduate Ironhacks WebDev bootcamp and through and have picked up Javascript, Node.js, React, Express, and MongoDB and various other skills. However, I also find myself passionate about Machine Learning/AI in daily applications as a powerful tool for automation. I do find myself split between front-end and back-end coding, and looking to expand my knowledge base of different langauges. 
+    I am a recent graduate Ironhacks WebDev bootcamp and through and have picked up Javascript, Node.js, React, Express, and MongoDB and various other skills. However, I also find myself passionate about Machine Learning/AI in daily applications as a powerful tool for automation. I do find myself split between front-end and back-end coding, and looking to expand my knowledge base of different langauges.
   </p>
 </div>
 
@@ -31,12 +31,14 @@
   <code><img alt="Sass" width="32" height="32" src="/images/sass.svg"></code>
   <!-- <code><img alt="Brain.JS" width="32" height="32" src="/images/brainjs.svg"></code> -->
   <code><img alt="TensorFlow.js" width="32" height="32" src="/images/tensorflow.svg"></code>
-<!--   <code><img alt="Tailwind CSS" width="32" height="32" src="/images/tailwindcss.svg"></code> -->
-<!--   <code><img alt="Bootstrap" width="32" height="32" src="/images/bootstrap.svg"></code> -->
+  <code><img alt="Tailwind CSS" width="32" height="32" src="/images/tailwindcss.svg"></code>
+  <code><img alt="Bootstrap" width="32" height="32" src="/images/bootstrap.svg"></code>
 <!--   <code><img alt="Angular" width="32" height="32" src="/images/angular.svg"></code> -->
-<!--   <code><img alt="Typescript" width="32" height="32" src="/images/typescript.svg"></code> -->
+  <code><img alt="Typescript" width="32" height="32" src="/images/typescript.svg"></code>
   <code><img alt="Mongo DB" width="32" height="32" src="/images/mongo.svg"></code>
   <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
+  <code><img alt="Ruby" width="32" height="32" src="/images/ruby.svg"></code>
+  <code><img alt="Ruby/Rails" width="32" height="32" src="/images/rails.svg"></code>
 </div>
 
 ##
