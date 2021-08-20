@@ -25,7 +25,6 @@
   <code><img alt="Python" width="32" height="32" src="/images/python.svg"></code>
   <code><img alt="Ruby" width="32" height="32" src="/images/ruby.svg"></code>
   <code><img alt="Ruby/Rails" width="32" height="32" src="/images/rails.svg"></code>
-  <code><img alt="Bootstrap" width="32" height="32" src="/images/bootstrap.svg"></code>
  </div>
 
 <div align='center'>
